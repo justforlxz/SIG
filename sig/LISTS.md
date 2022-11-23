@@ -27,3 +27,4 @@
 | 25 | [deepin-hvml](deepin-hvml/README.md) | - | [成员](deepin-hvml/MEMBERS.md) | [申请PR](https://github.com/deepin-community/SIG/pull/45) | [Zeno-sole](https://github.com/Zeno-sole) |2022/09/01| - |
 | 26 | [deepin-hardware-support](deepin-hardware-support/README.md) | - | [成员](deepin-hardware-support/MEMBERS.md) | [申请PR](https://github.com/deepin-community/SIG/pull/51) | [opsiff](https://github.com/opsiff) |2022/09/19| - |
 | 27 | [deepin-in-spanish](deepin-in-spanish/README.md) |[博客](https://deepin-community.github.io/sig-deepin-in-spanish/)| [成员](deepin-in-spanish/MEMBERS.md) |[申请PR](https://github.com/deepin-community/SIG/pull/52)|[Alvaro Samudio](https://github.com/alvarosamudio)|2022/09/29| - |
+| 28 | [deepin-wsl](deepin-wsl/README.md) | - | [成员](deepin-wsl/MEMBERS.md) | - | - |2022/11/23| - |
